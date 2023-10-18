@@ -1,14 +1,7 @@
 # COGS118A Final Project
 
 ### Binary Classification: Diabetes Prediction
-  Comparing logistic regression, decision trees, k-nearest neighbors, and SVMs
-
-**Group members**:
-
-- Alex Yu
-- Kevin (Jungwoo) Park
-- Connor McManigal
-- Shivani Suthar
+  Comparing logistic regression, decision tree, random forest, k-nearest neighbors, and SVMs
 
 **Abstract**:
 
